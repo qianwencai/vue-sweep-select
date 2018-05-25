@@ -1,7 +1,8 @@
 # vue-sweep
 
 > 扇形区域控制
-
+## Preview
+![img](./static/gifww.gif)
 ## Build Setup
 
 ``` bash
